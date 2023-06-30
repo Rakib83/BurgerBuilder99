@@ -4,7 +4,7 @@
   "description": "This is an api for burger builder app \"",
   "main": "server.js",
   "scripts": {
-    "start": "server.js",
+    "start": "node server.js",
     "build": "npm i"
   },
   "engines": {
